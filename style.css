@@ -1,0 +1,246 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.bs{
+    display: flex;
+    justify-content: left;
+    margin: 20px 0px 0px 20px;
+}
+.d1 {
+    display: flex;
+    justify-content: left;
+    background-color: blueviolet;
+    width: 180px;
+    height: 180px;
+    border-radius: 15px;
+    gap: 6px;
+    margin-left: 20px;
+
+}
+
+.dv1 {
+    background-color: orange;
+    width: 25px;
+    height: 25px;
+    border-radius: 7px;
+    margin: 7px 0px 0px 10px;
+}
+
+.d2 {
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+    background-color: blueviolet;
+    width: 180px;
+    height: 180px;
+    border-radius: 15px;
+    gap: 6px;
+    margin-left: 20px;
+}
+
+.dv2 {
+    background-color: orange;
+    width: 25px;
+    height: 25px;
+    border-radius: 7px;
+    margin: 7px 0px 0px 10px;
+}
+.d3 {
+    display: flex;
+    justify-content: left;
+    background-color: blueviolet;
+    width: 180px;
+    height: 180px;
+    border-radius: 15px;
+    gap: 6px;
+    flex-wrap: wrap;
+    margin-left: 20px;
+}
+
+.dv3 {
+    background-color: orange;
+    width: 25px;
+    height: 25px;
+    border-radius: 7px;
+    margin: 7px 0px 10px 10px;
+}
+.bv3{
+    background-color: orange;
+    width: 25px;
+    height: 25px;
+    border-radius: 7px;
+    margin: 7px 0px 110px 10px;
+}
+
+.d4 {
+    display: flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+    width: 180px;
+    height: 180px;
+    border-radius: 15px;
+    gap: 6px;
+    margin-left: 20px;
+}
+.dv4 {
+    background-color: orange;
+    width: 25px;
+    height: 25px;
+    border-radius: 7px;
+    margin: 7px 5px 0px 5px;
+}
+.bs2{
+    display: flex;
+    justify-content: left;
+    margin: 20px 0px 0px 20px;
+}
+.d5 {
+    display: flex;
+    justify-content: left;
+    background-color: blueviolet;
+    width: 180px;
+    height: 180px;
+    border-radius: 15px;
+    gap: 6px;
+    margin-left: 20px;
+
+}
+.dv5 {
+    background-color: orange;
+    width: 25px;
+    height: 25px;
+    border-radius: 7px;
+    margin: 7px 0px 0px 10px;
+}
+.d6 {
+    display: flex;
+    justify-content: right  ;
+    background-color: blueviolet;
+    width: 180px;
+    height: 180px;
+    border-radius: 15px;
+    gap: 6px;
+    margin-left: 20px;
+
+}
+.dv6 {
+    background-color: orange;
+    width: 25px;
+    height: 25px;
+    border-radius: 7px;
+    margin: 7px 10px 0px 0px;
+}
+.d7 {
+    display: flex;
+    justify-content: center;
+    background-color: blueviolet;
+    width: 180px;
+    height: 180px;
+    border-radius: 15px;
+    gap: 6px;
+    margin-left: 20px;
+
+}
+.dv7 {
+    background-color: orange;
+    width: 25px;
+    height: 25px;
+    border-radius: 7px;
+    margin: 7px 0px 0px 0px;
+}
+.d8 {
+    display: flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+    width: 180px;
+    height: 180px;
+    border-radius: 15px;
+    gap: 6px;
+    margin-left: 20px;
+}
+.dv8 {
+    background-color: orange;
+    width: 25px;
+    height: 25px;
+    border-radius: 7px;
+    margin: 7px 5px 0px 5px;
+}
+.bs3{
+    display: flex;
+    justify-content: left;
+    margin: 20px 0px 0px 20px;
+}
+.d9 {
+    display: flex;
+    justify-content: left;
+    background-color: blueviolet;
+    width: 180px;
+    height: 180px;
+    border-radius: 15px;
+    gap: 6px;
+    margin-left: 20px;
+
+}
+.dv9 {
+    background-color: orange;
+    width: 25px;
+    height: 25px;
+    border-radius: 7px;
+    margin: 7px 0px 0px 10px;
+}
+.d10 {
+    display: flex;
+    align-items: end;
+    background-color: blueviolet;
+    width: 180px;
+    height: 180px;
+    border-radius: 15px;
+    gap: 6px;
+    margin-left: 20px;
+
+}
+.dv10 {
+    background-color: orange;
+    width: 25px;
+    height: 25px;
+    border-radius: 7px;
+    margin: 7px 0px 10px 10px;
+}
+.d11 {
+    display: flex;
+    align-items: center;
+    background-color: blueviolet;
+    width: 180px;
+    height: 180px;
+    border-radius: 15px;
+    gap: 6px;
+    margin-left: 20px;
+
+}
+.dv11 {
+    background-color: orange;
+    width: 25px;
+    height: 25px;
+    border-radius: 7px;
+    margin: 7px 0px 10px 10px;
+}
+.d12 {
+    display: flex;
+    justify-content: space-around;
+    background-color: blueviolet;
+    width: 180px;
+    height: 180px;
+    border-radius: 15px;
+    gap: 6px;
+    margin-left: 20px;
+
+}
+.dv12 {
+    background-color: orange;
+    width: 25px;
+    height: 25px;
+    border-radius: 7px;
+    margin: 7px 0px 0px 0px;
+}
